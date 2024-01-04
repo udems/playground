@@ -1,0 +1,16 @@
+h1{
+    color: blueviolet;
+    text-decoration: underline;
+    font-size: 80px;
+    text-align: center;
+}
+
+h3{
+    font-size: 20px;
+    text-transform: uppercase;
+    color: rgb(245, 205, 255);
+}
+
+li{
+    text-decoration: none;
+}
